@@ -25,10 +25,10 @@ This Power BI dashboard analyzes beverage sales performance, product trends, and
 
 - ## Dashboard Preview
 
-![Page 1](image-link-1)
+![Page 1](https://github.com/shreenidhi-r-analytics/beverage-sales-analysis-dashboard/blob/main/Report%20Screenshots/Page1-Overview.png.png?raw=true)
 
-![Page 2](image-link-2)
+![Page 2](https://github.com/shreenidhi-r-analytics/beverage-sales-analysis-dashboard/blob/main/Report%20Screenshots/Page2-Category&Region%20Analysis.png.png?raw=true)
 
-![Page 3](image-link-3)
+![Page 3](https://github.com/shreenidhi-r-analytics/beverage-sales-analysis-dashboard/blob/main/Report%20Screenshots/Page3-Customer&Product%20Analysis.png.png?raw=true)
 
-![Page 4](image-link-4)
+![Page 4](https://github.com/shreenidhi-r-analytics/beverage-sales-analysis-dashboard/blob/main/Report%20Screenshots/Page4-Time%20Trend%20Analysis.png.png?raw=true)
